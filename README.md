@@ -2,9 +2,9 @@
 Este arquivo será usado para fazer uma atividade de aula de *git/github* e enviar ao repositório do *github*.
 
 ```
-**SENAC**
-**PROFESSOR GABRIEL CAIXETA**
-**ALUNO ENZO LUIZ BERTOLI**
+SENAC
+PROFESSOR GABRIEL CAIXETA
+ALUNO ENZO LUIZ BERTOLI
 ```
 
 
