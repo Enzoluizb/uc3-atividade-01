@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(63, 180, 161);
+}
+body {
+    background-color: azure;
+    font-family: sans-serif;
+    text-align: center;
+    width: 50%;
+    margin: 75px auto;
+    padding: 100px;
+}
+u {
+    color: red;
+}
+h1 {
+    color: red;
+}
+.img {
+    width: 30%;
+    height: 30%;
+    max-width: 100%;
+}
