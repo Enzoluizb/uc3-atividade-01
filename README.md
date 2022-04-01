@@ -1,2 +1,10 @@
 # uc3-atividade-01
-Atividade 01 das aulas de git/github
+Este arquivo será usado para fazer uma atividade de aula de *git/github* e enviar ao repositório do *github*.
+
+```
+**SENAC**
+**PROFESSOR GABRIEL CAIXETA**
+**ALUNO ENZO LUIZ BERTOLI**
+```
+
+
